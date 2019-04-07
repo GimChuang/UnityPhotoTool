@@ -17,6 +17,9 @@ There are 3 sample scenes in this project:
 How to Use
 ---
 ### PhotoTool.cs
+
+![Sample_PhotoTool](https://github.com/GimChuang/UnityPhotoTool/blob/master/readme_information/Sample_PhotoTool.gif)
+
 #### Settings in the Inspector
 - Set `startX`, `startY`, `width`, and `height` for the region you want to take screenshots with. You can view the region you've set by checking `Debug On GUI`.
 #### Scripting Reference
@@ -25,6 +28,9 @@ How to Use
 - `OnPhotoTaken(tex2d_photo)` is called after the screenshot is taken.
 
 ### PhotoAnimController.cs
+
+![Sample_PhotoAnimController](https://github.com/GimChuang/UnityPhotoTool/blob/master/readme_information/Sample_PhotoAnimController.gif)
+
 #### Settings in the Inspector
 - Drag some *Transform* components into the  `countDownElements` array. These *GameObjects* will be used in the countdown animation, which is driven by a [DOTween](http://dotween.demigiant.com/) Sequence.
 - Type in `duration_countDown` (in seconds). It's the duration of each `countDownElements`'s scaling animation.
@@ -37,6 +43,8 @@ How to Use
 - `PlayShotAnim()` plays the flash light animation (along with the `audio_shot` sound effect if it's assigned). `OnShotFinish()` is called when the animation finishes.
 
 ### KeyingColorPickers.cs, KeyingSliders.cs, and KeyingToggle.cs
+
+![Sample_Keying](https://github.com/GimChuang/UnityPhotoTool/blob/master/readme_information/Sample_Keying.gif)
 
 These scripts are used to control values on materials using  [ProcAmp](https://github.com/keijiro/ProcAmp) shader.
 
