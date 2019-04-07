@@ -11,7 +11,7 @@ There are 3 sample scenes in this project:
 - **Test_PhotoAnim** demostrates how to set up simple count down and flash light animation.
 - **Test_Keying** applies chroma keying and color adjustment onto textures.
  
-## 🌟 While the above scenes demonstrates how I use the scripts individually,  [UnityPhotoBooth](https://github.com/GimChuang/UnityPhotoBooth) is a complete photo booth game using all these scripts together. Please check it out if you need it.
+### 🌟 While the above scenes demonstrate how I use the scripts individually,  [UnityPhotoBooth](https://github.com/GimChuang/UnityPhotoBooth) is a complete photo booth game using all these scripts together. Please check it out if you need it.
 
 
 How to Use
