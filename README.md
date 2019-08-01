@@ -3,7 +3,7 @@
 Features
 ---
 - Take screenshots with your desired size and position.
-- Count down and flash light effect animation.
+- Count down and flash light effect animation. ([DOTween](http://dotween.demigiant.com/) required)
 - Chroma keying and basic brightness, contrast, and saturation adjustment with the help of [ProcAmp by Keijiro](https://github.com/keijiro/ProcAmp), [HSV Color Picker by judah4](https://github.com/judah4/HSV-Color-Picker-Unity), and [PlayerPrefsX by Eric Haines](http://wiki.unity3d.com/index.php/ArrayPrefs2#C.23_-_PlayerPrefsX.cs).
 
 There are 3 sample scenes in this project:
